@@ -2,6 +2,8 @@
 
 RickBot is a chatbot that can explain any scientific concept in simple terms. It uses the GPT-3 API to generate responses to user input in the style of Rick Sanchez from the popular animated series Rick and Morty.
 
+You can see the live deployment [here](https://rick-morty-gpt3.netlify.app/).
+
 ## Technologies
 
 This project was built using the following technologies:
